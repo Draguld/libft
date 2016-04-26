@@ -6,6 +6,7 @@ LDFLAGS=-L
 LDLIBS=lft
 HDDIRS=
 SRC =\
+	ft_strapp.c\
 	ft_lstadd.c \
 	ft_lstnew.c \
 	ft_lstdelone.c \

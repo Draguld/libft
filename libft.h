@@ -38,6 +38,12 @@
 
 # define ENDL ft_endl()
 
+//NEW-FUNCTION//
+
+char	*ft_strapp(char *s, char c);
+
+//------------//
+
 typedef struct		s_list
 {
 	void			*content;
